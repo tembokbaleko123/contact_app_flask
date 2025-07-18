@@ -1,0 +1,1 @@
+A simple contact app that lets you add friends’ contact details along with profile pictures via URL. Each contact can be categorized into groups such as Friends, Family, and more. The app also features group-based filtering on the main page, making it easy to view contacts by category.
